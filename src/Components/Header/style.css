@@ -1,0 +1,31 @@
+img {
+    text-decoration: none;
+    color: inherit;
+    border: none;
+    outline: none;
+    width: 100px;
+    
+    padding: 10px ;
+}
+.header{
+    width: 75%;
+    margin: auto;
+ 
+    background-color: #2874f0;
+    display: flex;
+    justify-content: space-between;
+}
+.cart{
+    display: flex;
+    width: 70px;
+  
+
+}
+p{
+    position: absolute;
+    right:240px;
+    top: -9px;
+    font-size: 1rem;
+    font-weight: 600;
+    
+}

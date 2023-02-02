@@ -1,0 +1,36 @@
+.product-container{
+    width: 50%;
+    margin: auto;
+    background-color: aliceblue;
+    border-radius: 20px;
+    padding: 1rem;
+    margin-top: 2rem;
+   
+}
+.quantity{
+    display: flex;
+    flex-direction: row;
+}
+button{
+    width: 2.5rem;
+    height: 2rem;
+    margin: 13px;
+}
+.flex{
+    display: flex;
+    justify-content: space-between;
+}
+.subtotal-section{
+    width: 50%;
+    height: 4rem;
+    background-color: black;
+    color: white;
+    margin: auto;
+    text-align: center;
+    display: flex;
+    justify-content: space-between;
+
+}
+body{
+    background-color: aquamarine;
+}
